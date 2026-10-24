@@ -10,6 +10,11 @@ EuroFour Central, a central server whose hosting costs are covered by Shayzee. I
 
 EuroFour Admin, a private interface just for me, allowing me to answer any questions that users send or respond to bug reports submitted via the "Report a bug / Get Help" system implemented directly in EuroFour Bridge. I will gladly respond to questions via email.
 
+## Installation
+Unzip the compressed (zipped) "EuroFour vX.X.X" folder and follow the installation steps as described in the "README.md" file in the root folder.
+
+**IMPORTANT:** Make sure to read the entire installation section in the "README.md" file in the root folder, or else it might not work as intended.
+
 ## Features
 - Real-time aircraft updates (position, callsign, altitude, speed, heading)
 - Flight plan syncing
@@ -43,11 +48,6 @@ By using EuroScope as the radar software, it has all the features that EuroScope
 - Operating system: Tested on Windows 11; compatibility with other operating systems is not guaranteed.
 - EuroScope: Version 3.2.8 or newer (recommended to use the latest version)
 - Internet connection
-
-## Installation
-Unzip the compressed (zipped) "EuroFour vX.X.X" folder and follow the installation steps as described in the "README.md" file in the root folder.
-
-**IMPORTANT:** Make sure to read the entire installation section in the "README.md" file in the root folder, or else it might not work as intended.
 
 ## Support
 If you encounter any problems, please don't hesitate to use my "Report a bug / Get Help" system built into EuroFour Bridge whenever possible.
