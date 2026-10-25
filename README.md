@@ -6,10 +6,6 @@ EuroFour is a community project created by Shayzee, which consists of EuroFour B
 
 EuroFour Plugin, a handmade plug-in that creates a dynamic ATC24 METAR list directly in EuroScope and automatically populates it with all the airports that your connected position is responsible for in EuroScope. For each airport, it displays the active ATIS letter and METAR.
 
-EuroFour Central, a central server whose hosting costs are covered by Shayzee. It collects and stores about 1,000 flight plans a day, provided by 24data directly from the `#flight-plans` channel in the ATC24 Discord server. It runs 24/7 to make sure all controllers have up-to-date flight plans.
-
-EuroFour Admin, a private interface just for me, allowing me to answer any questions that users send or respond to bug reports submitted via the "Report a bug / Get Help" system implemented directly in EuroFour Bridge. I will gladly respond to questions via email.
-
 ## Installation
 Unzip the compressed (zipped) "EuroFour vX.X.X" folder and follow the installation steps as described in the "README.md" file in the root folder.
 
